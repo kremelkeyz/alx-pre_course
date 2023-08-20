@@ -1,3 +1,2 @@
 My second directory created
-
-Updated this reademe from github graphially
+Created this line from github web.
