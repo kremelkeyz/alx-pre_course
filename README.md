@@ -1,2 +1,2 @@
-My second directory created
+My second directories created
 **Created this line from github web**
